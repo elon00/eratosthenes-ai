@@ -1,0 +1,14 @@
+{
+  "project": "eratosthenes-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "Ei9dpTLmCA6DvzsTns43uBDdEc65tZjzzBxPLUa1yRFP",
+  "vault_account": "2gkdyKG7RXvh6KzmMrXNVKupV2inRGTaheT9xCbGiXoZ",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "Z5EF6s6m2tJLjyDL4sS3szBG9zFAAwP4g1vmHX9vtF7aTHZr38xnbkWs1rJpMvjEYPeG9ninUPRxuZPVrC7zTNx",
+  "account_tx": "2nPboSXcmf5ciHNH3ELotYir8tQvZaMvtpphKcSdfwsyL5upaiXv4cbtYSZgNfBby5Cw9DbzE7oj5EVKRs1BTcud",
+  "mint_tx": "29BvZGUKrJWYxQjJ7eoaCru2Ra5DDwkDP3FQCquhBfmPCZ94NMuiqN9WMspYEFKmct6zQYC4mVua5hRwW8C1gryy",
+  "solana_explorer_mint": "https://explorer.solana.com/address/Ei9dpTLmCA6DvzsTns43uBDdEc65tZjzzBxPLUa1yRFP?cluster=devnet",
+  "timestamp": "2026-10-26 16:29:12 UTC"
+}
